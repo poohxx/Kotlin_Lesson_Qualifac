@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\TMP\\Kotlin_Lesson_Qualifac\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\TMP\\Kotlin_Lesson_Qualifac\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\TMP\\Kotlin_Lesson_Qualifac\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_loginout.xml",
+        "source": "C:\\TMP\\Kotlin_Lesson_Qualifac\\app\\src\\main\\res\\layout\\activity_loginout.xml"
+    }
+]

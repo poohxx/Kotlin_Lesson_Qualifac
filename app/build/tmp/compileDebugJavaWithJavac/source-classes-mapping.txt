@@ -1,0 +1,6 @@
+com/poohxx/kotlin_lesson_qualifac/databinding/ActivityLoginoutBinding.java
+ com.poohxx.kotlin_lesson_qualifac.databinding.ActivityLoginoutBinding
+com/poohxx/kotlin_lesson_qualifac/databinding/ActivityMainBinding.java
+ com.poohxx.kotlin_lesson_qualifac.databinding.ActivityMainBinding
+com/poohxx/kotlin_lesson_qualifac/BuildConfig.java
+ com.poohxx.kotlin_lesson_qualifac.BuildConfig
